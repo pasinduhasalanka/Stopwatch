@@ -79,7 +79,7 @@ A clean and simple **React Stopwatch Application** that allows users to start, s
 ## 👨‍💻 Author
 
 Pasindu Hasalanka  
-📧 your.email@example.com  
+📧 your.pasinduhasalanka21@gmail.com  
 🌐 [GitHub](https://github.com/pasinduhasalanka)
 
 ---
